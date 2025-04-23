@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Ta Yote Ma Lay Enjoyer");
         System.out.println("syr ma Lay Enjoyer");
         System.out.println("hmh");
+        System.out.println("12");
     }
 }
