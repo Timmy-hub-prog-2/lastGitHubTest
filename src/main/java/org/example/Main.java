@@ -20,5 +20,6 @@ public class Main {
 
         System.out.println("Ei Kyaw's Lover");
 
+        System.out.println("Hel koko nor");
     }
 }
