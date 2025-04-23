@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("hello");
         System.out.println("lone wa ma chit buu");
+        System.out.println("Ta Yote Ma Lay Enjoyer");
     }
 }
