@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("hello");
-        System.out.println("chit tl");
+        System.out.println("lone wa ma chit buu");
     }
 }
