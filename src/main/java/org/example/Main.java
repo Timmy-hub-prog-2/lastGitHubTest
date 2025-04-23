@@ -9,6 +9,7 @@ public class Main {
         System.out.println("lone wa ma chit buu");
         System.out.println("Ta Yote Ma Lay Enjoyer");
         System.out.println("Ta Yote gyi yaw ma enjoy buu lar");
+        System.out.println("Ta Yote Ma Lay Pal Chit Tar");
         System.out.println("syr ma Lay Enjoyer");
         System.out.println("hmh");
         System.out.println("12");
