@@ -29,6 +29,7 @@ public class Main {
         System.out.println("hi");
         System.out.println("hello everyone");
         System.out.println("how to do it?");
+        System.out.println("hello everyone");
 >>>>>>> d46e3d3936ca30b4eb96ec449927b2ddc6155689
     }
 }
